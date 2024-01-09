@@ -1,9 +1,10 @@
 ----------------------
 Kevin's Multiplayer FPS
-Started: February 2023 - Began working on Unity/PlasticSCM, January 2024 - Published to GitHub
-Created by: Kevin Zhou
-Using: Unity Engine, FishNetworking
 ----------------------
+Started: February 2023 - Began working on Unity/PlasticSCM, January 2024 - Published to GitHub  
+Created by: Kevin Zhou  
+Using: Unity Engine, FishNetworking  
+
 This game features fast-paced gameplay, customized loadouts, in a large, structured map
 
 Completed Milestones:
